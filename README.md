@@ -3,7 +3,7 @@ Ecommerce App that shows products after successful login of user, Built on NextJ
 App built on NextJS with Typescript in frontend and NodeJS and express along with MongoDB in backend.
 Added JWT authorization for user authetication with server cookies.
 
-# Installation for backend (
+# Installation for backend 
 Go To /product-app-back-end folder and run below command
 npm i
 
